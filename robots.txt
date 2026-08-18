@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-2i9teg.kujang138.space/sitemap.xml
